@@ -13,7 +13,7 @@
         <de>Ermöglicht das Hinzufügen separater Tastenkombinationen zum Starten und Stoppen des Motors. Dies ist insbesondere nützlich, wenn du das Zündschloss der FS25 Collectors Edition verwenden möchtest.</de>
     </description>
 
-    <iconFilename>icon_ignitionLockSupport.png</iconFilename>
+    <iconFilename>icon_ignitionLockSupport.dds</iconFilename>
 
     <actions>
         <action name="ilsMotorStart" category="VEHICLE" axisType="HALF" />
