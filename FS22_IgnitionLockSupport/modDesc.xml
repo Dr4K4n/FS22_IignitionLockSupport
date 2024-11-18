@@ -2,7 +2,7 @@
 <modDesc descVersion="80">
     <author>Dr4K4n</author>
     <version>1.0.0.0</version>
-    <multilayer supported="true" />
+    <multiplayer supported="true" />
 
     <title>
         <en>Ignition Lock Support</en>
@@ -11,18 +11,22 @@
 
     <description>
         <en>
-            <![CDATA[
-            Allows to add separate key bindings to start and stop the engine. This is especially useful when you want to use the FS25 collectors edition ignition lock.
+<![CDATA[
+Allows to add separate key bindings to start and stop the engine.
+By default the game only allows to bind one key to toogle the engine.
+This mod is intended to be used with the FS25 collectors edition ignition lock.
 
-            https://github.com/Dr4K4n/FS22_IignitionLockSupport
-            ]]>
+https://github.com/Dr4K4n/FS22_IignitionLockSupport
+]]>
         </en>
         <de>
-            <![CDATA[
-            Ermöglicht das Hinzufügen separater Tastenkombinationen zum Starten und Stoppen des Motors. Dies ist insbesondere nützlich, wenn du das Zündschloss der FS25 Collectors Edition verwenden möchtest.
-            
-            https://github.com/Dr4K4n/FS22_IignitionLockSupport
-            ]]>
+<![CDATA[
+Ermöglicht das Hinzufügen separater Tastenkombinationen zum Starten und Stoppen des Motors. 
+Standardmässig unterstützt das Spiel nur eine Taste um den Motor zu starten oder zu stoppen.
+Dieser Mod wurde entwickelt um das Zündschloss der FS25 Collectors Edition verwenden zu können.
+
+https://github.com/Dr4K4n/FS22_IignitionLockSupport
+]]>
         </de>
     </description>
 
@@ -39,12 +43,12 @@
 
     <l10n>
         <text name="input_ilsMotorStart">
-            <en>Start engine</en>
-            <de>Motor starten</de>
+            <en>Motorstate On</en>
+            <de>Motorzustand An</de>
         </text>
         <text name="input_ilsMotorStop">
-            <en>Stop engine</en>
-            <de>Motor stoppen</de>
+            <en>Motorstate Off</en>
+            <de>Motorzustand Aus</de>
         </text>
     </l10n>
 </modDesc>
